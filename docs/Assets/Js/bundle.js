@@ -103,7 +103,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _modulo1__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./modulo1 */ "./SRC/modulo1.js");
 
 var p1 = new _modulo1__WEBPACK_IMPORTED_MODULE_0__.Pessoa('Wellingthon', 'Schuh');
-console.log(p1);
+console.log(_modulo1__WEBPACK_IMPORTED_MODULE_0__.nome);
 })();
 
 /******/ })()
